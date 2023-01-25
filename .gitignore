@@ -1,0 +1,4 @@
+nn
+MNIST
+__pycache__
+*.pth
