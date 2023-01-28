@@ -2,3 +2,5 @@ nn
 MNIST
 __pycache__
 *.pth
+PetImages
+data.npy
